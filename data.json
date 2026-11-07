@@ -1,0 +1,158 @@
+
+{
+    "chart_title": "Crystal Associations by Chakra (2026)",
+    "data_points": [
+        {
+            "label": "Root",
+            "value": 4
+        },
+        {
+            "label": "Sacral",
+            "value": 2
+        },
+        {
+            "label": "Solar Plexus",
+            "value": 3
+        },
+        {
+            "label": "Heart",
+            "value": 4
+        },
+        {
+            "label": "Throat",
+            "value": 2
+        },
+        {
+            "label": "Third Eye",
+            "value": 3
+        },
+        {
+            "label": "Crown",
+            "value": 3
+        }
+    ],
+    "crystal_groups": {
+        "Quartz Family": {
+            "Root": 2,
+            "Sacral": 1,
+            "Solar Plexus": 2,
+            "Heart": 2,
+            "Throat": 1,
+            "Third Eye": 1,
+            "Crown": 2
+        },
+        "Other Minerals": {
+            "Root": 2,
+            "Sacral": 1,
+            "Solar Plexus": 1,
+            "Heart": 2,
+            "Throat": 1,
+            "Third Eye": 2,
+            "Crown": 1
+        }
+    },
+    "crystals": {
+        "Amethyst": {
+            "group": "Quartz Family",
+            "color": "Purple",
+            "chakras": ["Third Eye", "Crown"],
+            "properties": ["Intuition", "Calmness", "Spiritual Awareness"]
+        },
+        "Rose Quartz": {
+            "group": "Quartz Family",
+            "color": "Pink",
+            "chakras": ["Heart"],
+            "properties": ["Love", "Compassion", "Emotional Healing"]
+        },
+        "Clear Quartz": {
+            "group": "Quartz Family",
+            "color": "Clear",
+            "chakras": ["Crown"],
+            "properties": ["Clarity", "Energy Amplification", "Focus"]
+        },
+        "Smoky Quartz": {
+            "group": "Quartz Family",
+            "color": "Brown",
+            "chakras": ["Root"],
+            "properties": ["Grounding", "Protection", "Stability"]
+        },
+        "Citrine": {
+            "group": "Quartz Family",
+            "color": "Yellow",
+            "chakras": ["Solar Plexus"],
+            "properties": ["Confidence", "Abundance", "Motivation"]
+        },
+        "Carnelian": {
+            "group": "Quartz Family",
+            "color": "Orange",
+            "chakras": ["Sacral"],
+            "properties": ["Creativity", "Motivation", "Vitality"]
+        },
+        "Blue Lace Agate": {
+            "group": "Quartz Family",
+            "color": "Light Blue",
+            "chakras": ["Throat"],
+            "properties": ["Communication", "Calmness", "Expression"]
+        },
+        "Tiger's Eye": {
+            "group": "Quartz Family",
+            "color": "Golden Brown",
+            "chakras": ["Root", "Solar Plexus"],
+            "properties": ["Courage", "Confidence", "Grounding"]
+        },
+        "Green Aventurine": {
+            "group": "Quartz Family",
+            "color": "Green",
+            "chakras": ["Heart"],
+            "properties": ["Prosperity", "Compassion", "Optimism"]
+        },
+        "Black Tourmaline": {
+            "group": "Other Minerals",
+            "color": "Black",
+            "chakras": ["Root"],
+            "properties": ["Protection", "Grounding", "Security"]
+        },
+        "Hematite": {
+            "group": "Other Minerals",
+            "color": "Metallic Gray",
+            "chakras": ["Root"],
+            "properties": ["Stability", "Focus", "Grounding"]
+        },
+        "Moonstone": {
+            "group": "Other Minerals",
+            "color": "White",
+            "chakras": ["Sacral"],
+            "properties": ["Intuition", "Emotional Balance", "New Beginnings"]
+        },
+        "Pyrite": {
+            "group": "Other Minerals",
+            "color": "Gold",
+            "chakras": ["Solar Plexus"],
+            "properties": ["Confidence", "Abundance", "Willpower"]
+        },
+        "Malachite": {
+            "group": "Other Minerals",
+            "color": "Green",
+            "chakras": ["Heart"],
+            "properties": ["Transformation", "Growth", "Emotional Balance"]
+        },
+        "Lapis Lazuli": {
+            "group": "Other Minerals",
+            "color": "Deep Blue",
+            "chakras": ["Throat", "Third Eye"],
+            "properties": ["Wisdom", "Communication", "Insight"]
+        },
+        "Fluorite": {
+            "group": "Other Minerals",
+            "color": "Green and Purple",
+            "chakras": ["Heart", "Third Eye"],
+            "properties": ["Clarity", "Focus", "Balance"]
+        },
+        "Selenite": {
+            "group": "Other Minerals",
+            "color": "White",
+            "chakras": ["Crown"],
+            "properties": ["Peace", "Clarity", "Spiritual Connection"]
+        }
+    }
+}
